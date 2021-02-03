@@ -1,7 +1,9 @@
 @import url('https://fonts.googleapis.com/css2?family=Roboto:wght@400;500&display=swap');
 
 body {
-  background-color: rgba(260, 260, 260, 1);
+  /* background-color: rgba(260, 260, 260, 1); */
+  background-color: red;
+
   font-family: 'Roboto', sans-serif;
   color: rgba(20, 20, 20, 1);
   line-height: 25px;
